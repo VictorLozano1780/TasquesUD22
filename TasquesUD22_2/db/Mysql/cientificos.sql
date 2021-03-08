@@ -1,0 +1,15 @@
+CREATE DATABASE IF NOT EXISTS `UD22`;
+USE `UD22`;
+
+
+DROP TABLE IF EXISTS `cientifico`;
+
+CREATE TABLE `cientifico` (
+  `ID` int NOT NULL,
+  `NombreApellido` varchar(30) DEFAULT NULL,
+  
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB;
+
+SELECT *
+FROM CIENTIFICO;
