@@ -19,7 +19,7 @@ CC21_REUS_JavaAngular_2
 
 Repositorio de los ejercicios:
 ```
-https://github.com/cesar-torrelles/Java-Game-02---Palabra-oculta
+https://github.com/cesar-torrelles/UD22
 ```
 ###   3. Lista de herramientas para poder ejecutarlo:
 ```
